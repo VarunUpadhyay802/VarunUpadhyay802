@@ -4,10 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varun+Upadhyay!;" />
 </h1>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunUpadhyay802&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+<h1 align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunUpadhyay802&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VarunUpadhyay802&theme=dracula&hide_border=false)
+
+</h1>
+
 
   <a href="mailto:varun.802.vu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
