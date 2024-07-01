@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varun+Upadhyay!;" />
 </h1>
 
-<h1 align="center flex ">
+<h1 align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=VarunUpadhyay802&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunUpadhyay802&theme=dracula&hide_border=false" />
 
