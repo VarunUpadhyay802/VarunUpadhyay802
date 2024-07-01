@@ -7,7 +7,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunUpadhyay802&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,nextjs,react,js,css,tailwind,python,c,cpp,express,figma,azure,aws,go,ts,redux,github,docker&theme=light)](https://skillicons.dev)
+
 <div align="center"> 
   <a href="mailto:varun.802.vu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
