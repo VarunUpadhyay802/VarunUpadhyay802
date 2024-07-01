@@ -9,13 +9,15 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunUpadhyay802&theme=dracula&hide_border=false" />
 
 </h1>
-
-  <a href="mailto:varun.802.vu@gmail.com">
+<h1 align="center">
+    <a href="mailto:varun.802.vu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/varun--upadhyay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</h1>
+ 
 
   </a> 
 </div>
