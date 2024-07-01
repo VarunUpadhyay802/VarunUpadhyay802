@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varun+Upadhyay!;" />
 </h1>
 
-<h1 align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=VarunUpadhyay802&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunUpadhyay802&theme=dracula&hide_border=false" />
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,nextjs,react,js,css,tailwind,python,c,cpp,express,figma,azure,aws,go,ts,redux,github,docker&theme=dark" /><br>
+</div>
 
-</h1>
 <h1 align="center">
   <a href="mailto:varun.802.vu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -24,17 +25,18 @@
   </a>
 </h1>
 
- 
+
+
+<h1 align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=VarunUpadhyay802&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunUpadhyay802&theme=dracula&hide_border=false" />
+
+</h1>
 
   </a> 
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,nextjs,react,js,css,tailwind,python,c,cpp,express,figma,azure,aws,go,ts,redux,github,docker&theme=dark" /><br>
-</div>
 
 <br/>
